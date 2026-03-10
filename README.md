@@ -48,7 +48,7 @@ df['season'] = df['campaign_name'].str.split('_').str[1]
 **Reliability:** Ensures that supply chain and marketing KPIs (CTR, CPC, AOV) are based on a "Single Version of Truth".
 
 ### Project Structure
-**Cleaning Script:** View Python Script.
+**Cleaning Script:** [View Python Notebook](marketing_data_wrangling.ipynb).
 
 **Tech Stack:** Python 3.x, Pandas, NumPy.
 
